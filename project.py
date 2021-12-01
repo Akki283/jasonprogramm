@@ -33,3 +33,4 @@ print(startWith15)
 startPrefix2='10.10'
 startWith10=[x for x in b if x.startswith(startPrefix2)]
 print(startWith10)
+# i have opened this for github learning purpose
